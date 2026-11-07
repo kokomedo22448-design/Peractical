@@ -1,0 +1,38 @@
+/* -------------------------------- Mohamed Abdelraheem |||| B-2 -------------------------------- */
+
+/* ............... 😂دي حاجه هديه يعمم .............. */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #101827;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Tahoma, sans-serif;
+}
+
+h1 {
+    color: #00d9ff;
+    font-size: 55px;
+    border: 2px solid #00d9ff;
+    padding: 25px 40px;
+    border-radius: 15px;
+    text-shadow: 0 0 15px #00d9ff80;
+      transition: 0.4s ease;
+    cursor: pointer;
+}
+
+h1:hover {
+    color: white;
+    background-color: #00d9ff;
+    transform: scale(1.08);
+    box-shadow: 0 0 25px #00d9ff;
+}
+
+/* -------------------------------- Mohamed Abdelraheem |||| B-2 -------------------------------- */
